@@ -27,6 +27,15 @@
         };
     };
 
+    macros {
+        LockWin: LockWin {
+            compatible = "zmk,behavior-macro";
+            #binding-cells = <0>;
+            bindings = <&kp RG(L)>;
+            label = "LOCKWIN";
+        };
+    };
+
     keymap {
         compatible = "zmk,keymap";
 
