@@ -188,5 +188,3 @@ layers:
 combos:
 - p: [54, 53]
   k: SPACE
-- p: [36, 42]
-  k: AC ZOOM
