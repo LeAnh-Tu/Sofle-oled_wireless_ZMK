@@ -34,13 +34,6 @@
             bindings = <&kp RG(L)>;
             label = "LOCKWIN";
         };
-
-        space2: space2 {
-            compatible = "zmk,behavior-macro";
-            #binding-cells = <0>;
-            bindings = <>;
-            label = "SPACE2";
-        };
     };
 
     combos { compatible = "zmk,combos"; };
