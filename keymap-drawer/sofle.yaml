@@ -38,7 +38,7 @@ layers:
   - KP MULTIPLY
   - (
   - )
-  - '|'
+  - ''''
   - {t: ▽, type: trans}
   - '='
   - '-'
@@ -52,7 +52,7 @@ layers:
   - ;
   - ':'
   - \
-  - ''''
+  - '|'
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
@@ -185,3 +185,6 @@ layers:
   - ''
   - ''
   - ''
+combos:
+- p: [36, 54]
+  k: SPACE
