@@ -50,11 +50,6 @@
             bindings = <&kp SPACE>;
             key-positions = <54 53>;
         };
-
-        zoom {
-            bindings = <&kp C_AC_ZOOM>;
-            key-positions = <36 42>;
-        };
     };
 
     keymap {
